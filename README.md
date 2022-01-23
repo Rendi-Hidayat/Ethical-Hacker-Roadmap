@@ -43,27 +43,27 @@ Learning flow to become an ethical hacker
 
 4. Tools :
 
--Netsparker
--SaferVPN
--Acunetix
--Burp Suite
--Ettercap
--Aircrack
--Angry IP Scanner
--GFI LanGuard
--Savvius
--WebInspect
--QualysGuard
--Hashcat
--Rainbow Crack
--L0phtCrack
--IKECrack
--Nmap
--Metasploit Framework
--SQLMap
--Medusa
--Cain & Abel
--Nessus
+- Netsparker
+- SaferVPN
+- Acunetix
+- Burp Suite
+- Ettercap
+- Aircrack
+- Angry IP Scanner
+- GFI LanGuard
+- Savvius
+- WebInspect
+- QualysGuard
+- Hashcat
+- Rainbow Crack
+- L0phtCrack
+- IKECrack
+- Nmap
+- Metasploit Framework
+- SQLMap
+- Medusa
+- Cain & Abel
+- Nessus
 
 5. Virtualization :
 
