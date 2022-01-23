@@ -41,7 +41,29 @@ Learning flow to become an ethical hacker
 - Loadable Kernel Modules
 - Linux System and Network Administration.
 
-4. Tool
+4. Tools :
+
+-Netsparker
+-SaferVPN
+-Acunetix
+-Burp Suite
+-Ettercap
+-Aircrack
+-Angry IP Scanner
+-GFI LanGuard
+-Savvius
+-WebInspect
+-QualysGuard
+-Hashcat
+-Rainbow Crack
+-L0phtCrack
+-IKECrack
+-Nmap
+-Metasploit Framework
+-SQLMap
+-Medusa
+-Cain & Abel
+-Nessus
 
 5. Virtualization :
 
