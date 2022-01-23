@@ -88,7 +88,7 @@ Intangible Skills :
 
 17. Persistence
 
-18.Practice Skills
+18. Practice Skills
 
 Practice your hacking skills in various platforms like :
 
