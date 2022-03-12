@@ -80,19 +80,25 @@ Learning Flow To Become An Ethical Hacker
 - Security Threats
 - Vpns
 
-7. Wireless Technologies :
+7. Programming Languages :
 
-- Bluetooth
-- Wifi
-- Routers
-- GPS
-- Networks
+- C
+- C++
+- Java
+- Javascript
+- Golang
+- Python
+- Assembly
+- Powershell
+- PHP
+- Ruby
+- Shell
 
 Intermediate Skills : 
 
-8. Scripting
+8. Authentication Controls
 
-9. Database Skills
+9. Public Key Infrastructure
 
 10. Web Applications
 
@@ -102,7 +108,7 @@ Intermediate Skills :
 
 13. Cryptography
 
-14. Reverse Engineering
+14. Penetration Testing
 
 Intangible Skills : 
 
