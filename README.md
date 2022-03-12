@@ -94,31 +94,42 @@ Learning Flow To Become An Ethical Hacker
 - Ruby
 - Shell
 
-8. Authentication Controls
+8. Databases :
 
-9. Public Key Infrastructure
+- Oracle
+- MySQL
+- MongoDB
+- PostgreSQL
+- MS SQL Server
+- MariaDB
+- Cassandra
+- SQLite
 
-10. Web Applications
+9. Authentication Controls
 
-11. Forensics
+10. Public Key Infrastructure
 
-12. Social Engineering
+11. Web Applications
 
-13. Malware
+12. Forensics
 
-14. Cryptography
+13. Social Engineering
 
-15. Penetration Testing
+14. Malware
+
+15. Cryptography
+
+16. Penetration Testing
 
 Intangible Skills : 
 
-16. Think Creatively
+17. Think Creatively
 
-17. Problem-Solving Skills
+18. Problem-Solving Skills
 
-18. Persistence
+19. Persistence
 
-19. Practice Skills
+20. Practice Skills
 
 - HackTheBox
 - TryHackMe
