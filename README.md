@@ -94,8 +94,6 @@ Learning Flow To Become An Ethical Hacker
 - Ruby
 - Shell
 
-Intermediate Skills : 
-
 8. Authentication Controls
 
 9. Public Key Infrastructure
@@ -104,21 +102,23 @@ Intermediate Skills :
 
 11. Forensics
 
-12. Advanced TCP/IP
+12. Social Engineering
 
-13. Cryptography
+13. Malware
 
-14. Penetration Testing
+14. Cryptography
+
+15. Penetration Testing
 
 Intangible Skills : 
 
-15. Think Creatively
+16. Think Creatively
 
-16. Problem-Solving Skills
+17. Problem-Solving Skills
 
-17. Persistence
+18. Persistence
 
-18. Practice Skills
+19. Practice Skills
 
 - HackTheBox
 - TryHackMe
