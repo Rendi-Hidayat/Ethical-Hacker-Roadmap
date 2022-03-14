@@ -106,7 +106,7 @@ Learning Flow To Become An Ethical Hacker
 - Cassandra
 - SQLite
 
-9. Cryptographic
+9. Cryptography
 
 10. Public Key Infrastructure
 
