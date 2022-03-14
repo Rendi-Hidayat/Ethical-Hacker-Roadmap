@@ -87,6 +87,7 @@ Learning Flow To Become An Ethical Hacker
 - Java
 - Javascript
 - Golang
+- SQL
 - Python
 - Assembly
 - Powershell
