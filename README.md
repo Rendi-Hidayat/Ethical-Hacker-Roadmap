@@ -106,7 +106,7 @@ Learning Flow To Become An Ethical Hacker
 - Cassandra
 - SQLite
 
-9. Authentication Controls
+9. Cryptographic
 
 10. Public Key Infrastructure
 
@@ -118,7 +118,7 @@ Learning Flow To Become An Ethical Hacker
 
 14. Malware
 
-15. Cryptography
+15. Authentication Controls
 
 16. Penetration Testing
 
